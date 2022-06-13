@@ -12,7 +12,7 @@
 # 👨‍💻 About Me
 I am a computer science student from Magdeburg, Germany.
 - 💻 I'm interested in Full Stack Development and Data Science.
-- 🌱 Exploring Cloud Computing.
+- ☁️ Exploring Cloud Computing.
 - ✉️ How to reach me:
 
 # 🛠️ Languages & Tools
