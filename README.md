@@ -22,3 +22,7 @@ I am a computer science student from Magdeburg, Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="75" height="75"/>&nbsp;
 </div>
+
+## 🔥 My Stats
+[![](http://github-readme-streak-stats.herokuapp.com?user=leonardKleber&theme=dark&background=121212)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
