@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a computer science student from Magdeburg, Germany.
+I am a undergraduate computer science student from Magdeburg, Germany.
 - 💻 I'm interested in Full Stack Development and Data Science.
 - ☁️ Exploring Cloud Computing.
 - ✉️ How to reach me:
@@ -25,5 +25,7 @@ I am a computer science student from Magdeburg, Germany.
 </div>
 
 ## 🔥 My Stats
-[![](http://github-readme-streak-stats.herokuapp.com?user=leonardKleber&theme=dark&background=121212)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=dark"/>&nbsp;
+  <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=leonardKleber&theme=dark&background=121212"/>
+</div>
