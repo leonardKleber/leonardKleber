@@ -10,7 +10,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a undergraduate computer science student from Magdeburg, Germany.
+I am an undergraduate computer science student from Magdeburg, Germany.
 - 💻 I'm interested in Full Stack Development and Data Science.
 - ☁️ Exploring Cloud Computing.
 - 👾 In my free time, I design Pixel Art Graphics and learn about Retro Gaming Consoles.
