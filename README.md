@@ -9,14 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=leonardKleber"/>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 I am an undergraduate computer science student from Magdeburg, Germany.
 - 💻 I'm interested in Full Stack Development and Data Science.
 - ☁️ Exploring Cloud Computing.
 - 👾 In my free time, I design Pixel Art Graphics and learn about Retro Gaming Consoles.
 - ✉️ How to reach me: leonard.kleber@outlook.com
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
@@ -27,7 +27,7 @@ I am an undergraduate computer science student from Magdeburg, Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50"/>&nbsp;
 </div>
 
-## 🔥 My Stats
+## My Stats
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=dark"/>&nbsp;
   <img height="175" src="http://github-readme-streak-stats.herokuapp.com?user=leonardKleber&theme=dark&background=121212"/>
