@@ -13,7 +13,7 @@
 I am an undergraduate computer science student from Magdeburg, Germany.
 - 💻 I'm interested in Full Stack Development and Data Science.
 - ☁️ Exploring Cloud Computing.
-- 👾 In my free time, I design Pixel Art Graphics and learn about Retro Gaming Consoles.
+- 👾 I design Pixel Art Graphics and learn about Retro Gaming Consoles.
 - ✉️ How to reach me: leonard.kleber@outlook.com
 
 ## Languages & Tools
@@ -24,7 +24,7 @@ I am an undergraduate computer science student from Magdeburg, Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50"/>&nbsp;
 </div>
 
 ## My Stats
