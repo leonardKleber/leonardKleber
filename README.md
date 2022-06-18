@@ -14,7 +14,7 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
 - 💻 Full Stack Development
 - 📈 Data Science
 - ☁️ Cloud Computing
-- 👾 Pixel Art and learn Retro Games
+- 👾 Pixel Art and Retro Games
 
 **How to reach me: ✉️ leonard.kleber@outlook.com**
 
