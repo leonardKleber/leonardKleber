@@ -10,11 +10,13 @@
 </div>
 
 ## About Me
-I am an undergraduate computer science student from Magdeburg, Germany.
-- 💻 I'm interested in Full Stack Development and Data Science.
-- ☁️ Exploring Cloud Computing.
-- 👾 I design Pixel Art Graphics and learn about Retro Gaming Consoles.
-- ✉️ How to reach me: leonard.kleber@outlook.com
+I am an undergraduate computer science student from Magdeburg, Germany and I'm interested in:
+- 💻 Full Stack Development
+- 📈 Data Science
+- ☁️ Cloud Computing.
+- 👾 Pixel Art and learn Retro Games
+
+#### How to reach me: ✉️ leonard.kleber@outlook.com
 
 ## Languages & Tools
 <div>
