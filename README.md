@@ -33,4 +33,6 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=light"/>&nbsp;
   <img height="175" src="http://github-readme-streak-stats.herokuapp.com?user=leonardKleber&theme=light&background=FFFFFF"/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=leonardKleber&theme=light" />
 </div>
