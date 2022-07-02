@@ -12,7 +12,7 @@
 ## About Me
 I am an undergraduate computer science student from Magdeburg, Germany and I'm interested in:
 - 💻 Full Stack Development
-- 📈 Data Science
+- 📊 Data Science
 - ☁️ Cloud Computing
 - 👾 Pixel Art and Retro Games
 
