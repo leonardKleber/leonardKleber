@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/leonardKleber.png" width="150"/>
+  <img src="https://github.com/leonardKleber.png" width="200"/>
   
   <div>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
