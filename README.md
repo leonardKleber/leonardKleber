@@ -36,6 +36,6 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
 </div>
 
 ## Coming Soon
-- **MyVirtualWallet** - A crypto portfolio tracking tool
-- **EarlyBird** - A deadline management tool
-- **Grid** - A pixel art editor
+- 📈 **MyVirtualWallet** - A crypto portfolio tracking tool
+- 🐦 **EarlyBird** - A deadline management tool
+- ✏️ **Grid** - A pixel art editor
