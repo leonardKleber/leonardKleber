@@ -5,7 +5,6 @@
     <a href="https://www.linkedin.com/in/leonard-kleber/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    
     <a href="https://github.com/leonardKleber">
       <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=firefox&logoColor=white"/>
     </a>
