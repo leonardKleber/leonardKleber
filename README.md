@@ -34,3 +34,8 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
   <img height="175" src="https://github-readme-stats.vercel.app/api/?username=leonardKleber&theme=light"/>
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=light"/>&nbsp;
 </div>
+
+## Comming soon
+- **MyVirtualWallet** - A crypto portfolio tracking tool
+- **EarlyBird** - A deadline management tool
+- **Grid** - A pixel art editor
