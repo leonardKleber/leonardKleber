@@ -20,13 +20,13 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
 - ☁️ Cloud Computing
 - 👾 Pixel Art and Retro Games
 
-**How to reach me: ✉️ leonard.kleber@outlook.com**
+Reach out to me at: **leonard.kleber@outlook.com**
 
 ## Languages & Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="50"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="50"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="50"/>&nbsp;
