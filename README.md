@@ -34,6 +34,6 @@ Reach out to me at: **leonard.kleber@outlook.com**
 
 ## My Stats
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/?username=leonardKleber&theme=vue"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=vue"/>&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/?username=leonardKleber&theme=swift"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=swift"/>&nbsp;
 </div>
