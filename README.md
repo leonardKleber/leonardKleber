@@ -23,7 +23,7 @@ I am an undergraduate computer science student from Magdeburg, Germany and I'm i
 Reach out to me at: **leonard.kleber@outlook.com**
 
 ## Languages & Tools
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
