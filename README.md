@@ -30,7 +30,7 @@ Reach out to me at: **leonard.kleber@outlook.com**
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="60"/>&nbsp;
-  <imb src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="60"/>&nbsp;
 </div>
 
 ## My Stats
