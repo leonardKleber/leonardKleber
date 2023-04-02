@@ -32,6 +32,8 @@ Reach out to me at: **leonard.kleber@outlook.com**
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="75"/>&nbsp;
 </div>
 
