@@ -14,7 +14,7 @@
 </div>
 
 ## About Me
-I am an undergraduate computer science student from Magdeburg, Germany and I'm interested in:
+I am a postgraduate computer science student from Berlin, Germany, studying at TU Berlin, and I’m interested in:
 - 💻 Full Stack Development
 - 📊 Data Science
 - ☁️ Cloud Computing
