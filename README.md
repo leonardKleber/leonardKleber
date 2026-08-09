@@ -13,32 +13,52 @@
   <img src="https://komarev.com/ghpvc/?username=leonardKleber"/>
 </div>
 
-## About Me
-I am a postgraduate computer science student from Berlin, Germany, studying at TU Berlin, and I’m interested in:
-- 💻 Full Stack Development
-- 📊 Data Science
-- ☁️ Cloud Computing
-- 👾 Pixel Art and Retro Games
+# Hi there! 👋 I'm Leonard
+I'm a Master's student in Computer Science at TU Berlin with a passion for building software that people actually use.
 
-Reach out to me at: **leonard.kleber@outlook.com**
+I enjoy working across the stack—from creating intuitive frontends to designing backend systems and working with data. I especially enjoy building applications that solve real problems and learning new technologies along the way.
 
-## Languages & Tools
+Python has long been my go-to language, but recently I've been diving into Java by developing Minecraft server plugins and other software engineering projects. I enjoy learning new technologies by building real-world applications and continuously expanding my toolkit.
+
+# Interests
+- 🌐 Full Stack Engineering
+- 🎨 Frontend Development
+- ☕ Backend Development
+- 🎮 Minecraft Plugin Development
+- 👾 Pixel Art & Retro Games
+
+# Tech Stack - Languages
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="75"/>&nbsp;
+</div>
+
+# Tech Stack - Frameworks & Technologies
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="75">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="75">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="75"/>&nbsp;
 </div>
 
-## My Stats
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/?username=leonardKleber&theme=swift"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardKleber&layout=compact&theme=swift"/>&nbsp;
-</div>
+# What you'll find here
+
+My repositories are a mix of:
+
+- 🎓 University coursework and research projects
+- 💡 Personal experiments and side projects
+- ⚙️ Minecraft server plugins
+- 🧪 Small tools built to learn new technologies
+
+I enjoy building projects that teach me something new, whether that's exploring a new framework, improving software architecture, or experimenting with game development.
+
+# Get in touch
+
+I'm always happy to connect with other developers and discuss software engineering, open source, or interesting project ideas.
+Reach out to me at: **leonard.kleber@outlook.com**
